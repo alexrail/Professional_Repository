@@ -15,26 +15,6 @@ Focus areas include:
 
 ---
 
-# Repository Structure
-Professional_Repository/
-│
-├── src/
-│ ├── pca_portfolio/
-│ ├── stat_factor_models/
-│ ├── portfolio_optimization/
-│ └── time_series/
-│
-├── results/
-│ ├── pca_portfolio/
-│ ├── stat_factor_analysis/
-│ ├── portfolio_optimization/
-│ └── time_series/
-│
-└── README.md
-
-
----
-
 # 🧠 About AR Capital Partners LLC
 
 **AR Capital Partners LLC** is a quantitative research and financial engineering practice focused on:
