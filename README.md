@@ -3,17 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Last Updated](https://img.shields.io/badge/Updated-Nov%202025-lightgrey.svg)
 
-Portfolio showcasing quantitative research, financial modeling, and Python development work at **AR Capital Partners LLC**.  
-Focus areas include:
-
-- Systematic trading model development  
-- Statistical factor modeling  
-- Portfolio optimization & construction  
-- Financial time series forecasting  
-- Python automation for investment workflows  
-- Research pipelines used for internal quant strategy development  
-
----
+Portfolio highlighting quantitative modeling, algorithmic research, and full-stack development across Python, SQL, and C++.
+Includes AI/ML implementations, financial time-series forecasting, risk analytics, and engineered tooling for systematic trading and portfolio optimization.
 
 # 🧠 About AR Capital Partners LLC
 
